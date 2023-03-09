@@ -8,9 +8,9 @@ body {background-color:black;
     .maindiv{
         background-color: white;
         color: black;
-        width: 600px;
+        width: 300px;
         padding: 200px;
-        border-radius: 250px;
+        border-radius: 25px;
         text-align: center;
     }
     
