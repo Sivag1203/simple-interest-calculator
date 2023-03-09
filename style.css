@@ -8,8 +8,8 @@ body {background-color:black;
     .maindiv{
         background-color: white;
         color: black;
-        width: 300px;
-        padding: 20px;
+        width: 600px;
+        padding: 10rem;
         border-radius: 25px;
         text-align: center;
     }
